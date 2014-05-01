@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list display="Compare" description="Different methods of comparing content" readonly="false">
+  <action id="CompareTwoFiles" />
+  <action id="CompareDirs" />
+  <action id="CompareFileWithEditor" />
+  <action id="CompareClipboardWithSelection" />
+  <action id="QuickList.$Separator$" />
+  <action id="Compare.SameVersion" />
+  <action id="Compare.LastVersion" />
+  <action id="Compare.Selected" />
+  <action id="Git.CompareWithBranch" />
+</list>
+

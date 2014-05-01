@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="github" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="update.available.group" />
+    <notification groupId="PHPUnit Generate Actions" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Web Deployment" />
+    <notification groupId="Load Error" />
+    <notification groupId="Notification group display Id" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="System Messages" />
+    <notification groupId="Productivity Baloon" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="Composer" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <notification groupId="File Watcher Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="ideavim" />
+    <notification groupId="Require.js plugin" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="External Executable Critical Failures" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="PHPUnit" />
+    <toolWindow group="PHP Debugger" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Database" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="Database view" />
+  </component>
+</application>
+

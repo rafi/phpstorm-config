@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="DejaVu Sans" />
+    <option name="FONT_SIZE" value="11" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="30" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="15" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>
+

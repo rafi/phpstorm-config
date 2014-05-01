@@ -1,0 +1,5 @@
+#set( $PROJECT = "Sortex" )
+#set( $AUTHOR = "Sortex Systems Development Ltd." )
+#set( $YEARS = "2011-2014" )
+#set( $LICENSE = "BSD" )
+#set( $LINK = "http://www.sortex.co.il" )

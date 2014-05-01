@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Sortex" parent="$default">
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="control 9" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="control 2" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="control 3" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="control 1" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorContextInfo" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="shift control MULTIPLY" />
+    <keyboard-shortcut first-keystroke="shift control 8" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift control ADD" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="control ADD" />
+  </action>
+  <action id="ExpandTreeNode">
+    <keyboard-shortcut first-keystroke="ADD" />
+    <keyboard-shortcut first-keystroke="shift EQUALS" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FindUsagesInFile" />
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="MULTIPLY" />
+    <keyboard-shortcut first-keystroke="shift 8" />
+  </action>
+  <action id="Git.Log">
+    <keyboard-shortcut first-keystroke="control LESS" />
+  </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control N" />
+    <keyboard-shortcut first-keystroke="alt W" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift F2" />
+  </action>
+  <action id="GotoPreviousError" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift control alt N" />
+    <keyboard-shortcut first-keystroke="alt Q" />
+  </action>
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="F12" />
+    <keyboard-shortcut first-keystroke="alt LESS" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="control Q" />
+    <keyboard-shortcut first-keystroke="shift control Q" />
+  </action>
+  <action id="QuickList.Compare list">
+    <keyboard-shortcut first-keystroke="F1" />
+  </action>
+  <action id="QuickList.Git list">
+    <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control alt L" />
+    <keyboard-shortcut first-keystroke="shift alt L" />
+  </action>
+  <action id="Resume" />
+  <action id="ShowNavBar" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="control F7" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="F11" />
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
+  <action id="ToggleBookmark6" />
+  <action id="ToggleBookmark7" />
+  <action id="ToggleBookmark8" />
+  <action id="ToggleBookmark9" />
+  <action id="Vcs.ShowMessageHistory" />
+  <action id="alternate_file">
+    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="control 8" />
+  </action>
+</keymap>
+

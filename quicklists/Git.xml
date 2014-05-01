@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list display="Git" description="Git" readonly="false">
+  <action id="Annotate" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Git.Branches" />
+  <action id="QuickList.$Separator$" />
+  <action id="Compare.SameVersion" />
+  <action id="Compare.Selected" />
+  <action id="Git.CompareWithBranch" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.Fetch" />
+  <action id="Git.Pull" />
+  <action id="Git.Push" />
+  <action id="QuickList.$Separator$" />
+  <action id="ChangesView.AddUnversioned" />
+</list>
+

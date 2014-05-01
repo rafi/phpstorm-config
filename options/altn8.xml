@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AlternateApplicationComponent">
+    <option name="genericPostfixRegexItems">
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Impl" />
+        <option name="grouping" value="true" />
+        <option name="description" value="Implementations" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="[Tt]est" />
+        <option name="grouping" value="true" />
+        <option name="description" value="Test classes and files" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="(?:_\w{2}(?:_\w{2})?)" />
+        <option name="description" value="Locales (ex: 'description_en_UK.properties')" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="\_app" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Spec" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Base" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Controller" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Model" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Repository" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="_controller" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Interface" />
+        <option name="grouping" value="true" />
+        <option name="description" value="" />
+      </AlternateGenericPrefixPostfixRegexItem>
+    </option>
+    <option name="genericFileExtensionRegexItems">
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="java" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="properties" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="html?" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="sql" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="xml" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="dtd" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="xsd" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="rb" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="py" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="php" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="pl" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="pm" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="js" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="mustache" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="css" />
+      </AlternateGenericFileExtensionRegexItem>
+    </option>
+  </component>
+</application>
+
