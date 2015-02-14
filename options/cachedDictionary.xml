@@ -8,6 +8,7 @@
       <w>asmx</w>
       <w>async</w>
       <w>autoloader</w>
+      <w>beanstalkd</w>
       <w>bonafide</w>
       <w>bytea</w>
       <w>capi</w>

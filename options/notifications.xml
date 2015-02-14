@@ -46,6 +46,8 @@
     <toolWindow group="Database" />
     <toolWindow group="Debugger messages" />
     <toolWindow group="Database view" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Grunt Console" />
   </component>
 </application>
 
